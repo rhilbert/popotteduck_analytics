@@ -1,6 +1,6 @@
 {
   "VoilaConfiguration": {
-     "template": "flex",
+    "template": "flex",
     "file_whitelist" : "['.*']"
   }
 }
