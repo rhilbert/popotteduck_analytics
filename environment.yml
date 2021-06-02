@@ -1,0 +1,8 @@
+name: dashboard_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - anaconda
+  - folium
+prefix: C:\Users\rhilb\anaconda3\envs\dashboard_env
