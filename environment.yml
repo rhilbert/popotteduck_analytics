@@ -5,4 +5,5 @@ channels:
 dependencies:
   - anaconda
   - folium
+  - jupyter-flex
 prefix: C:\Users\rhilb\anaconda3\envs\dashboard_env
