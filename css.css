@@ -1,0 +1,33 @@
+.jupyter-flex .navbar {
+    background-color: orange;
+}
+
+.page {
+    background-color: lightgrey;
+}
+
+.section {
+    background-color: white;
+
+}
+
+.card {
+    background-color: white;
+}
+
+.jupyter-flex .sidebar {
+    background-color: white;
+    color : black;
+}
+
+.jupyter-flex .sidebar .section .card-header {
+    background-color: blue;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.jupyter-flex .sidebar .section .card {
+    display: block;
+    background-color: transparent;
+    color: #000;
+}
