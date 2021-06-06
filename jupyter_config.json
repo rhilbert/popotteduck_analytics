@@ -1,6 +1,7 @@
 {
   "VoilaConfiguration": {
     "template": "flex",
+    "enable_nbextensions": true,
     "file_whitelist" : "['.*']"
   }
 }
