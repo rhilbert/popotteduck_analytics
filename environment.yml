@@ -5,5 +5,5 @@ channels:
 dependencies:
   - anaconda
   - folium
-  - voila
-  - jupyter-flex
+   - jupyter-flex
+   - voila
